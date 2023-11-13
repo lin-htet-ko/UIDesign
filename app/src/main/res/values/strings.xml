@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UI Design</string>
+    <string name="lbl_my_tickets">My e-tickets</string>
+    <string name="lbl_retrieve_here">Retrieve here</string>
+    <string name="lbl_there_aren_t_any_yet">There aren\'t any yet</string>
+    <string name="lbl_map">Map</string>
+    <string name="lbl_inhabitants">Inhabitants</string>
+    <string name="lbl_shows">Shows</string>
+    <string name="lbl_dinning">Dine</string>
+    <string name="lbl_meet_chat"><![CDATA[Meets & Greets]]></string>
+    <string name="lbl_shopping">Shopping</string>
+    <string name="lbl_park_hours">Park hours</string>
+    <string name="lbl_plan_my_visit">Plan my visit</string>
+    <string name="lbl_home">Home</string>
+    <string name="lbl_wallet">Wallet</string>
+    <string name="lbl_more">More</string>
+</resources>
